@@ -1,5 +1,5 @@
 # Hi, it`s me J and Welcome to my github profile
-
+![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)
 
 <p align="center">
   <img width="250" src="https://1.bp.blogspot.com/-rO5EPCM0fpQ/XwhrWUCJyMI/AAAAAAAAJXk/D9hONji-Cw0I53A_9bmGg5Ir_MOeQQO7gCPcBGAYYCw/s660/ninja.gif">
