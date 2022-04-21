@@ -1,4 +1,4 @@
-# Hi, it`s me J and Welcome to my github profile
+# Hi, it`s me JaJa and Welcome to my profile
 
 <p align="center">
   <img width="250" src="https://1.bp.blogspot.com/-rO5EPCM0fpQ/XwhrWUCJyMI/AAAAAAAAJXk/D9hONji-Cw0I53A_9bmGg5Ir_MOeQQO7gCPcBGAYYCw/s660/ninja.gif">
